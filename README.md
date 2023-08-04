@@ -2,6 +2,10 @@
 
 Este projeto tem como objetivo desenvolver um algoritmo capaz de detectar diferentes tons de vermelho em vídeos, permitindo uma análise mais precisa dessas áreas específicas. O algoritmo foi desenvolvido em Python e utiliza as bibliotecas OpenCV e NumPy.
 
+## Projeto
+
+<img src="imagens/detector-tons-de-vermelho.gif" width="70%">
+
 ## Pré-requisitos
 
 Para executar o algoritmo, é necessário ter o Python instalado no sistema, juntamente com as bibliotecas OpenCV e NumPy. Caso ainda não possua essas bibliotecas, você pode instalá-las utilizando o gerenciador de pacotes pip:
